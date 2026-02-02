@@ -4,7 +4,7 @@
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![Status](https://img.shields.io/badge/status-production--ready-green.svg)
-![License](https://img.shields.io/badge/license-proprietary-red.svg)
+![Author](https://img.shields.io/badge/license-proprietary-red.svg)
 
 **Профессиональный тест-бот для сотрудников ФССП с интеграцией в Telegram Mini Apps**
 
